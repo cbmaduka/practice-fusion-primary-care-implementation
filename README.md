@@ -67,7 +67,7 @@ A **New Patient Visit** was then scheduled for an annual preventive examination,
 <p align="center">
   <img src="screenshots/01-patient-chart-summary.png" alt="Patient Chart" width="42%">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/02-new-patient-appointment-scheduled.png" alt="Appointment Scheduling" width="42%">
+  <img src="screenshots/02-new-patient-appointment-scheduled.png" alt="Appointment Scheduling" width="40%">
 </p>
 ---
 
@@ -80,9 +80,9 @@ Vital signs were documented using Practice Fusion's structured flowsheet, captur
 The encounter then progressed into structured clinical documentation using the SOAP format, including subjective findings, objective findings, assessment and diagnosis documentation.
 
 <p align="center">
-  <img src="screenshots/03-patient-vitals-documented.png" alt="Patient Vitals" width="34%">
+  <img src="screenshots/03-patient-vitals-documented.png" alt="Patient Vitals" width="32%">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/04-clinical-encounter-documentation.png" alt="Clinical Documentation" width="52%">
+  <img src="screenshots/04-clinical-encounter-documentation.png" alt="Clinical Documentation" width="58%">
 </p>
 ---
 
@@ -93,11 +93,10 @@ Following clinical documentation, the SOAP note was finalized with preventive ca
 The completed encounter became part of the patient's permanent electronic health record.
 
 <p align="center">
-  <img src="screenshots/05-completed-soap-note.png" alt="Completed SOAP Note" width="52%">
+  <img src="screenshots/05-completed-soap-note.png" alt="Completed SOAP Note" width="36%">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/06-signed-encounter-summary.png" alt="Signed Encounter" width="34%">
+  <img src="screenshots/06-signed-encounter-summary.png" alt="Signed Encounter" width="52%">
 </p>
-
 ---
 
 # Features Demonstrated
